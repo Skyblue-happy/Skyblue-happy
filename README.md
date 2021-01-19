@@ -2,6 +2,8 @@
 
 坐标杭州的web前端开发。
 
+喜欢听音乐，撸猫。
+
 <!--
 **Skyblue-happy/Skyblue-happy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
